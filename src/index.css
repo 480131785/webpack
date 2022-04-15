@@ -1,0 +1,8 @@
+.hello {
+    color: red;
+    font-size: 30px;
+}
+
+.hello-bg {
+    background-image: url('./lsy.png') !important;
+}

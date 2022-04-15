@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwork=self.webpackChunkwork||[]).push([[600],{483:(n,r,u)=>{u.r(r),u.d(r,{add:()=>e,minus:()=>k});var e=function(n,r){return n+r},k=function(n,r){return n-r}}}]);
